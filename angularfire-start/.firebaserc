@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "new-simple-project-e2e3b"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
